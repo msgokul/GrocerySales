@@ -1,0 +1,9 @@
+{
+"categories" : "https://raw.githubusercontent.com/msgokul/GrocerySales/refs/heads/main/dataset/categories.csv", 
+"cities" : "https://raw.githubusercontent.com/msgokul/GrocerySales/refs/heads/main/dataset/cities.csv", 
+"countries": "https://raw.githubusercontent.com/msgokul/GrocerySales/refs/heads/main/dataset/countries.csv", 
+"customers" : "https://raw.githubusercontent.com/msgokul/GrocerySales/refs/heads/main/dataset/customers.csv", 
+"employees" : "https://raw.githubusercontent.com/msgokul/GrocerySales/refs/heads/main/dataset/employees.csv", 
+"products" : "https://raw.githubusercontent.com/msgokul/GrocerySales/refs/heads/main/dataset/categories.csv", 
+"sales" : "https://raw.githubusercontent.com/msgokul/GrocerySales/refs/heads/main/dataset/sales.csv"
+}
