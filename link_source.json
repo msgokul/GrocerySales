@@ -1,9 +1,9 @@
 [
-{"categories" : "GrocerySales/refs/heads/main/dataset/categories.csv"}, 
-{"cities" : "GrocerySales/refs/heads/main/dataset/cities.csv"}, 
-{"countries": "GrocerySales/refs/heads/main/dataset/countries.csv"}, 
-{"customers" : "GrocerySales/refs/heads/main/dataset/customers.csv"}, 
-{"employees" : "GrocerySales/refs/heads/main/dataset/employees.csv"}, 
-{"products" : "GrocerySales/refs/heads/main/dataset/categories.csv"}, 
-{"sales" : "GrocerySales/refs/heads/main/dataset/sales.csv"}
+{"file_name":"categories" , "relative_url" : "GrocerySales/refs/heads/main/dataset/categories.csv"}, 
+{"file_name":"cities"  , "relative_url" : "GrocerySales/refs/heads/main/dataset/cities.csv"}, 
+{"file_name":"countries" , "relative_url" : "GrocerySales/refs/heads/main/dataset/countries.csv"}, 
+{"file_name":"customers" , "relative_url"  : "GrocerySales/refs/heads/main/dataset/customers.csv"}, 
+{"file_name":"employees"  , "relative_url" : "GrocerySales/refs/heads/main/dataset/employees.csv"}, 
+{"file_name":"products"  , "relative_url" : "GrocerySales/refs/heads/main/dataset/categories.csv"}, 
+{"file_name":"sales" , "relative_url"  : "GrocerySales/refs/heads/main/dataset/sales.csv"}
 ]
