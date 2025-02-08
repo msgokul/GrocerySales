@@ -4,6 +4,5 @@
 {"file_name":"countries" , "relative_url" : "GrocerySales/refs/heads/main/dataset/countries.csv"}, 
 {"file_name":"customers" , "relative_url"  : "GrocerySales/refs/heads/main/dataset/customers.csv"}, 
 {"file_name":"employees"  , "relative_url" : "GrocerySales/refs/heads/main/dataset/employees.csv"}, 
-{"file_name":"products"  , "relative_url" : "GrocerySales/refs/heads/main/dataset/categories.csv"}, 
-{"file_name":"sales" , "relative_url"  : "GrocerySales/refs/heads/main/dataset/sales.csv"}
+{"file_name":"products"  , "relative_url" : "GrocerySales/refs/heads/main/dataset/categories.csv"}
 ]
