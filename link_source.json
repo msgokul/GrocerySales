@@ -1,9 +1,9 @@
-{
-"categories" : "GrocerySales/refs/heads/main/dataset/categories.csv", 
-"cities" : "GrocerySales/refs/heads/main/dataset/cities.csv", 
-"countries": "GrocerySales/refs/heads/main/dataset/countries.csv", 
-"customers" : "GrocerySales/refs/heads/main/dataset/customers.csv", 
-"employees" : "GrocerySales/refs/heads/main/dataset/employees.csv", 
-"products" : "GrocerySales/refs/heads/main/dataset/categories.csv", 
-"sales" : "GrocerySales/refs/heads/main/dataset/sales.csv"
-}
+[
+{"categories" : "GrocerySales/refs/heads/main/dataset/categories.csv"}, 
+{"cities" : "GrocerySales/refs/heads/main/dataset/cities.csv"}, 
+{"countries": "GrocerySales/refs/heads/main/dataset/countries.csv"}, 
+{"customers" : "GrocerySales/refs/heads/main/dataset/customers.csv"}, 
+{"employees" : "GrocerySales/refs/heads/main/dataset/employees.csv"}, 
+{"products" : "GrocerySales/refs/heads/main/dataset/categories.csv"}, 
+{"sales" : "GrocerySales/refs/heads/main/dataset/sales.csv"}
+]
